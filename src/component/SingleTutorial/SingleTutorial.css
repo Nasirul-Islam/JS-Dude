@@ -1,0 +1,17 @@
+.singleTutorial {
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.tutorial {
+    margin-bottom: 20px;
+}
+
+.tutorial h2 {
+    font-size: 33px;
+    font-weight: 400;
+    color: rgb(118, 118, 238);
+    margin-bottom: 10px;
+}
+

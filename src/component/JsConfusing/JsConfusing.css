@@ -1,0 +1,17 @@
+.jsConfusing {
+    margin-bottom: 20px;
+}
+
+.jsConfusing h2{
+    font-weight: 400;
+    font-size: 27px;
+}
+
+.jsConfusing p{
+    font-size: 18px;
+}
+
+.jsConfusing span {
+    font-size: 16px;
+    color: rgb(246, 102, 102);
+}
