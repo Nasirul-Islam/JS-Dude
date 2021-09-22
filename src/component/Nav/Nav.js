@@ -3,7 +3,7 @@ import './Nav.css'
 const Nav = () => {
     return (
         <div className="navigation">
-            <div className="container">
+            <div className="navContent container">
                 <h3>That Js Dude</h3>
                 <button>sign in</button>
             </div>

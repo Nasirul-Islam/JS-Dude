@@ -2,21 +2,21 @@
     background: black;
     
 }
-.container {
+.navContent {
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 70px;
 }
 
-.container h3 {
+.navContent h3 {
     color: rgb(214, 208, 208);
 }
 
-.container button {
+.navContent button {
     color: white;
     background: rgb(121, 172, 21);
-    padding: 15px;
+    padding: 10px 15px;
     border-radius: 10px;
 
 }

@@ -1,0 +1,26 @@
+.headContent{
+    background: rgb(233, 228, 228);
+}
+
+.headMain {
+    padding: 50px 0;
+}
+
+.headMain h1 {
+    font-weight: 400;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.headMain p {
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.headMain button {
+    color: white;
+    background: rgb(121, 172, 21);
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+}
