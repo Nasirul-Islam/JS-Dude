@@ -1,0 +1,23 @@
+.navigation {
+    background: black;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.container h3 {
+    color: rgb(214, 208, 208);
+}
+
+.container button {
+    color: white;
+    background: rgb(121, 172, 21);
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
